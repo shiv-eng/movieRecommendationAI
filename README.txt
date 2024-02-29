@@ -1,4 +1,4 @@
-## Movie Recommendation Flask App
+# Movie Recommendation Flask App
 
 Welcome to the Movie Recommendation Flask App! This application provides movie recommendations based on user-preferred genres using collaborative filtering with the Surprise library.
 
